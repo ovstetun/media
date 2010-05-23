@@ -1,0 +1,3 @@
+h1. My media thingy
+
+A kind of play project of mine, trying to test new tech on a familiar domain.
